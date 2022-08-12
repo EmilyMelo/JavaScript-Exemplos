@@ -1,3 +1,9 @@
+// ## Atividade 1
+
+// Verifique, de duas maneiras diferentes entre si, se uma String é um palíndromo.
+
+
+
 //solucao 1
 function verificaPalindromo(palavra) {
   if (!palavra) return "não é palavra!";

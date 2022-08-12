@@ -1,3 +1,6 @@
+// ### Reduce
+// 1. Some todos os números de um array
+
 function soma(array) {
   return array.reduce(function (prevValue, currentValue) {// a funcao com reduce soma todos os itens de um array. prevValue(valor anterior) e currentValue(valor atual)
     console.log({ prevValue }); //dessa forma ele mostrara o valor unicial, em seguida a soma e depois novamente o valor resdultado.
